@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icon {
+  @apply border-[1px] border-white p-[10px] rounded-[50%];
+}
