@@ -1,8 +1,8 @@
 function Contact() {
   return (
     <>
-      <section className="bg-[#ffffffd5] pt-[3rem]">
-        <div className="container pb-5">
+      <section className="bg-transparent pt-[8rem]">
+        <div className="container p-10">
           <div className="text-[#2c3e50] text-center">
             <h2 className="mb-3 text-[30px] font-bold md:text-[40px]">
               CONATCT SECTION

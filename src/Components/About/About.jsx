@@ -1,8 +1,8 @@
 function About() {
   return (
     <>
-      <section className="bg-[#1abc9c] pt-[3rem]">
-        <div className="container p-14">
+      <section className="bg-[#1abc9cd5] z-[-1] pt-[8rem]">
+        <div className="container p-10">
           <div className="text-white text-center">
             <h2 className="mb-3 text-[30px] font-bold md:text-[40px]">
               ABOUT COMPONENT
@@ -14,7 +14,7 @@ function About() {
             </div>
           </div>
           <div className="container">
-            <div className="row px-5">
+            <div className="py-5">
               <div className="text-white md:flex">
                 <div className="px-7">
                   <p>

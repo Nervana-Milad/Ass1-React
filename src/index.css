@@ -5,3 +5,7 @@
 .icon {
   @apply border-[1px] border-white p-[10px] rounded-[50%];
 }
+
+.active {
+  @apply bg-[#1abc9cd5];
+}
