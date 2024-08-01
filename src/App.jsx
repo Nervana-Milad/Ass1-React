@@ -4,7 +4,6 @@ import About from "./Components/About/About";
 import Home from "./Components/Home/Home";
 import Portfolio from "./Components/Portfolio/Portfolio";
 import Contact from "./Components/Contact/Contact";
-
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { Children } from "react";
 
